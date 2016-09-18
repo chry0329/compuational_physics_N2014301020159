@@ -1,6 +1,7 @@
 # compuational_physics_N2014301020159
+# 2014级 天眷班 陈瑞阳
 # Homework list
-# [Exercise_02](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/English%20name.py)
+# [Exercise_02]()
 # [Exercise_03]()
 # [Exercise_04]()
 # [Exercise_05]()
