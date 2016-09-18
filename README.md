@@ -1,5 +1,6 @@
 # compuational_physics_N2014301020159
 # Homework list
+# [Exercise_02]()
 # [Exercise_03]()
 # [Exercise_04]()
 # [Exercise_05]()
