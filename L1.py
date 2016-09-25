@@ -1,7 +1,7 @@
 import time
 import os
 i = os.system('cls')
-time.sleep(1)
+time.sleep(0.5)
 print(" ####  #   #  #####  #   #  ####   #   #  ###  #   #    #    #   #   ### ")
 print("#      #   #  #      ##  #  #   #  #   #   #    # #    # #   ##  #  #    ")
 print("#      #####  #####  # # #  ####   #   #   #     #    #####  # # #  #  ##")
