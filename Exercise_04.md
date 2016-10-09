@@ -8,6 +8,7 @@
   应用matplotlib实现decay problem的进行过程以得到结论
 # 正文
   代码：[Decay Problem](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/Decay%20Problem.py)
+  
   1.当Na=100，Nb=0时
     ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%200-100.png)
     
