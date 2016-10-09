@@ -7,16 +7,15 @@
 # 背景介绍
   应用matplotlib实现decay problem的进行过程以得到结论
 # 正文
-  一、代码[Decay Problem](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/Decay%20Problem.py)
-  
-  二、1.当Na=100，Nb=0时
-        ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%200-100.png)
+  代码：[Decay Problem](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/Decay%20Problem.py)
+  1.当Na=100，Nb=0时
+    ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%200-100.png)
     
-      2.当Na=100，Nb=20时
-        ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%2020-100.png)
+  2.当Na=100，Nb=20时
+    ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%2020-100.png)
     
-      3.当Na=80，Nb=20时
-        ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%2020-80.png)
+  3.当Na=80，Nb=20时
+    ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/result%2020-80.png)
 # 结论
   由图可知，不管Na与Nb取何值，其衰变终将稳定在(Na+Nb)/2附近
 # 致谢
