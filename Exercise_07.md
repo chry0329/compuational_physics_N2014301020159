@@ -12,9 +12,11 @@
   选择一个初始角度差为0.001的混沌摆，考察它在F=1.2与F=0.5的情况下角度之差的变化规律，利用python进行相关运算
  
   F=1.2时：
+  
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/7-2.png)
   
   F=0.5时：
+  
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/7-3.png)
   
   [代码2](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/7-2.py)
