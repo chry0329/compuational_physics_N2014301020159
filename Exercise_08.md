@@ -7,19 +7,19 @@
   Bifurcation diagram is very helpful to analyze the transition to chaos. It can show us lines for θ as a function of drive amplitude, which was constructed in the following manner. For each value of FD we have calculated θ as a function of time. After waiting for 300 driving periods so that the initial transients have decayed away, we plotted θ at times that were in phase with the driving force as a function of FD. Here we plotted points up to the 428th driving period.
   After that, we can calculate the Feigenbaum δ parameter through following formula:
 
-  []()
+  [](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/8-1.png)
   
   In theory, whencmd-markdown-logo levels off to infinity, δ=4.669.
   
-  [code]()
+  [code](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/Exercise_08.py)
   
   FD=1.4:
   
-  []()
+  [](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/8-2.png)
   
   FD=1.465:
   
-  []()
+  [](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/8-3.png)
   
 # Conclusion
   Conclusion: from figure, it quite easy find that after removing the points corresponding to the initial transient the attractor in the period-1 regime will contain only a single point. Likewise, if the behavior is period , the attractor will contain discrete points.
