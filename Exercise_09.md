@@ -1,5 +1,6 @@
 # Abstract
   Question 3.30
+  
   Investigate the Lyapunov exponent of the stadium billiard for several values of α. You can do this qualitatively by examining the behavior for only one set of initial conditions for each value of α you consider, or more quantitatively by averaging over a range of initial conditions for each value of α.
 # Background
   Lorentz was studying the basic equations of fluid mechanics, which are known as the Navier-Stokes equations and which can be regarded as Newton’s law written in a form appropriate to a fluid. The specific situation he considered was the Rayleigh-Benard problem, which concerns a fluid in a container whose top and bottom surfaces are held at different temperatures. Indeed, he grossly simplified the problem as he reached to the so-called Lorentz equations, or equivalently, the Lorentz model, which provided a major contribution to the modern field of physics.
