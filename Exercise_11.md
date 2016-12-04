@@ -9,7 +9,7 @@
   Hyperion is one of the largest bodies known to be highly irregularly shaped (non-ellipsoidal, i.e. not in hydrostatic equilibrium) in the Solar System.
 
   Hyperion's rotation is chaotic, that is, its axis of rotation wobbles so much that its orientation in space is unpredictable.
-# Main body & Conclusion
+# Main body
   We think the behavior when the orbit is circular
   
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/11-2.png)
