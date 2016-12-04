@@ -35,6 +35,7 @@
   [the code](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/11.py)
 # Conclusion
   This model is sensitive for initial condition.
+  
   The origin of these dips is that the angle difference decreases as the angular velocity of the larger angle changes from positive to negative.
 # Acknowledgement
   Thanks to LJJ！
