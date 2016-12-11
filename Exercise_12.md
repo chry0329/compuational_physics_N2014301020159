@@ -5,7 +5,7 @@
   
   ΔV=0
   
-  or![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-1.jpg)
+  or![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-1.png)
 
   This is partial differential equation (PDE).To solve this equation, we will use relaxation method.
 # Main body
@@ -21,9 +21,11 @@
   
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-4.png)
   
+  -----------------------------------------------------------------------------------------
+  
   Different method:
   
-  Jacobi method[code](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-1.py):
+  Jacobi method [code](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-1.py):
   
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-5.png)
   
@@ -35,11 +37,13 @@
   
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-8.png)
   
-  Simultaneous over-relaxation method (SOR method)[code](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-2.py):
+  Simultaneous over-relaxation method (SOR method) [code](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-2.py):
   
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-9.png)
   
   The best choice for α is：![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-10.png)
+  
+  -----------------------------------------------------------------------------------------
   
   Comparison：
   
@@ -50,6 +54,8 @@
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-11.png)
   
   We can see that under the same L, the convergent speeds of SOR method is faster than SOR method, which is faster than that of Jacobi method. (The smaller number of iterations is, the faster convergent speed is.) 
+  
+  -----------------------------------------------------------------------------------------
   
   Jacobi method
   
@@ -65,6 +71,8 @@
   
   The number of iterations N is about proportional to L^2
   
+  -----------------------------------------------------------------------------------------
+    
   SOR method
   
   ![](https://github.com/chry0329/compuational_physics_N2014301020159/blob/master/12-13.png)
